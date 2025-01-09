@@ -1,10 +1,10 @@
-import Button from "react-bootstrap/Button";
-import "./App.css";
+import logo from './logo.svg';
+import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <Button variant="primary">Primary</Button>
+      <h1>Hello, World!</h1>
     </div>
   );
 }
